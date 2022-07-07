@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1>I am Sebastian</h1>
+<h2>I am Sebastian</h2>
 
 
 # 💻 Tech Stack:
