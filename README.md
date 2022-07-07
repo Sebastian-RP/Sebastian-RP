@@ -1,6 +1,7 @@
 # 💫 About Me:
 <h2>I am Sebastian</h2>
 
+<h4>I am a Fullstack web developer with a lot of curiosity, I like to constantly investigate new technologies and how I could solve problems using them, at the same time I understand the importance of teamwork and I am always open to learning from my colleagues. I live in Bogotá Colombia and my favorite hobby is running outside while listening to my favorite songs.</h4>
 
 # 💻 Tech Stack:
 
